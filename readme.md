@@ -1,7 +1,7 @@
 # Project e-commerce
 
 ## Description 😲
-Implementation of RESTful APIs for QuizApp.
+Implementation of RESTful APIs for E-commerce.
 Data Modelling: Efficient data modeling techniques for handling products, users, orders, category.
 
 # Features 🎖️
