@@ -37,3 +37,28 @@ Data Modelling: Efficient data modeling techniques for handling products, users,
 - Bcrypt: Library to hash passwords.
 - Validator: Library to validate and sanitize strings.
 - mongoSanitizer: Data sanitization against nosql query injection
+
+# API Documentation 
+Postman Doc [here](https://web.postman.co/workspace/My-Workspace~cfcd2dc7-c94a-48a7-885c-9245a114ac86/collection/32765959-66211146-d360-4dc6-bb40-ac7bba68a0c5).
+
+
+# 🚀 Getting Started
+1. **Clone this repository to your local machine**
+    ```sh
+    git clone https://github.com/abdoelsaeed/e-commerce.git
+    ```
+
+2. **Install Dependencies**
+    ```sh
+    npm install
+    ```
+
+3. **Set Up Environment Variables**:
+    Create a `.env` file in the root directory of the project and configure the required environment variables.
+
+4. **Start the Development Server**:
+    ```sh
+    npm start
+    ```
+# Contributing
+I welcome contributions! Please fork the repository and create a pull request with your changes.
